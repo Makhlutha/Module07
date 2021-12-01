@@ -3,7 +3,7 @@
 ###### 11/28/2021
 ###### IT FDN 130 A Au 21: Foundations Of Databases & SQL Programming
 ###### Instructor: Randal Root
-###### GitHub Code for Module 07 (Link to External Site): 
+###### GitHub Code for Module 07 (Link to External Site): https://github.com/Makhlutha/Module07
 
 
 <p align="center">
